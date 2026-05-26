@@ -16,6 +16,7 @@ command registration out of the box, so you can focus on writing handlers.
 - 🔔 Notifies admins when the bot starts
 - 🧭 Registers default bot commands (`/start`, `/help`) automatically
 - 🔐 Configuration via a `.env` file (`environs`)
+- 🇬🇧 All code comments and bot messages are written in English
 
 ## Requirements
 
